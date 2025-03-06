@@ -9,6 +9,7 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "bootstrap": "^5.3.3",
     "firebase": "^11.4.0",
     "lodash": "^4.17.21",
     "next": "15.2.1",
